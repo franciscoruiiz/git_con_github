@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=100&color=F44D27&background=000000&center=true&vCenter=true&width=600&lines=git-con-github;bienvenidx;repositorio+subido+con+comandos+de+Git;%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E%F0%9F%98%8E)](https://git.io/typing-svg)
 
-## Trabajo desarrollado por Lucas Zarandón
+## Trabajo desarrollado por Gaston Ruiz
 Visita la página web donde explicamos detalladamente como trabajar en GitHub con Git
 <a target="_blank" href="https://lucaszhh.github.io/Git-con-Github/">git-con-github</a> 
 
